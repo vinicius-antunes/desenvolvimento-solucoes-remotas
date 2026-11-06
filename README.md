@@ -26,9 +26,9 @@ Este repositório serve para organizar os arquivos e as evidências de realizaç
 
 ## Identificação
 
-- **Aluno(a):** [preencher]
-- **Turma:** [preencher]
-- **Professor(a):** [preencher]
-- **Instituição:** [preencher]
+- **Aluno(a):** Vinicius Antunes
+- **Turma:** 6 semestre
+- **Professor(a):** Felipe
+- **Instituição:** UNIC
 
 > Organização do material: atividades respondidas em Markdown, separadas por unidade, para facilitar a leitura e revisão no GitHub.
